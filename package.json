@@ -1,0 +1,17 @@
+{
+	"name": "wxmlcanvas_v2",
+	"version": "1.0.4",
+	"description": "wxmlcanvas_v2小程序根据dom生成结构",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"wxmlcanvas_v2",
+		"wxmlcanvas",
+		"wxml",
+		"canvas"
+	],
+	"author": "",
+	"license": "ISC"
+}
